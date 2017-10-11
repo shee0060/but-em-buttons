@@ -1,0 +1,8 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
