@@ -1,34 +1,3 @@
 html {
   font-family: "Ubuntu Condensed", sans-serif;
-  background-image: url("../images/starfield.png");
-  background-position: cover;
-}
-
-h1 {
-  text-shadow: 2px 2px 5px #000;
-  color: #fff;
-}
-
-h2 {
-  margin: 0;
-  padding-right: 35px;
-}
-
-p {
-  text-shadow: 2px 2px 5px #000;
-  color: #fff;
-}
-
-.btn-ghost {
-  background-image: url("../images/rocket.svg");
-  background-repeat: no-repeat;
-  background-position: right;
-  background-size: 32px;
-  color: #90ccc3;
-  border: 3px solid #90ccc3;
-  border-radius: 10px;
-}
-
-.btn-ghost:hover {
-
 }
